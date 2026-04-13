@@ -13,7 +13,7 @@ $fields = [['Student No.',$p['student_no']],['Last Name',$p['lastname']],['First
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>EnrollEase — My Profile</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/enrollease/assets/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 <style>
 .profile-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
 .pfield{padding:12px;background:var(--surface2);border-radius:8px;border:1px solid var(--border)}
