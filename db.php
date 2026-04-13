@@ -2,10 +2,10 @@
 // includes/db.php
 // MySQL connection using PDO
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'enrollease');
+ddefine('DB_HOST', 'mysql.railway.internal');
+define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASS', '');        // ← blank by default in XAMPP, add password if you set one
+define('DB_PASS', 'WugZsbasyrjrXdJQMvBQSGdLDAkYVoWN');    // ← blank by default in XAMPP, add password if you set one
 
 function getDB() {
     static $pdo = null;
