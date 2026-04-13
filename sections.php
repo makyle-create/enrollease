@@ -42,7 +42,7 @@ $subjects = dbSelect("SELECT * FROM subject WHERE is_active='Y' ORDER BY subject
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>EnrollEase — Sections</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/enrollease/assets/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <div class="layout">
