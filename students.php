@@ -160,7 +160,7 @@ $suggestedPw   = generatePassword();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>EnrollEase — Students</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/enrollease/assets/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 <style>
 .pw-box {
   background: var(--amber-lt); border: 1px solid #fde68a;
