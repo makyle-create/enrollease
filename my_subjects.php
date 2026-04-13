@@ -29,7 +29,7 @@ $subjects = dbSelect("SELECT es.enroll_subject_id, sub.subject_code, sub.subject
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>EnrollEase — My Subjects</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/enrollease/assets/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <div class="layout">
